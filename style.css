@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+  }
+  html, body {height:100%; width:100%;
+   padding:10px;background-color:#c5bbd6;
+  }
+  .main{ padding:30px;
+  }
+  h1{
+    font-family:'Courier New', Courier, monospace;
+  }
+  p{
+    font-size: 20px; font-family: courier;
+  }
+  .nav{
+    font-size:20px; color:#85C1E9;display:inline; padding:10px 20px;
+  }
+  a{
+    text-decoration: none; color:#85C1E9;
+  }
+  
+  section{
+    font-size:25px; font-family:courier;
+  }
+  #ab{
+    padding:30px;
+  }
+  .sc{
+    font-size:20px;
+  }
+  .navi{background-color:black; padding: 10px;}
+  .here{
+    display:flex;
+  }
+  .learn{
+    padding: 10px 20px;;
+  }
+  .nav:hover{
+    background-color:peachpuff;
+  }
+  span:hover{background-color:peachpuff;
+    }
+  .pro{
+    font-size:20px;
+  }
