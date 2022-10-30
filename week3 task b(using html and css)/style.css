@@ -1,0 +1,30 @@
+html, body {padding:20px;
+    box-sizing:border-box;
+  }
+  .container{height: 50%; width:50%;
+    
+  }
+  input{
+    width: 100%; border:none;padding: 10px;background-color:#F4F6F6; margin-top:10px; margin-bottom:5px;
+  }
+  input:focus{
+    background-color:#FADBD8;
+  }
+  .color{background-color:#85C1E9
+   ; width:25%;
+  }
+  select{
+    margin-top:10px;margin-bottom:10px; padding:7px; width:40%;border:none; background-color:#85C1E9;
+  }
+  select:focus{
+    background-color:#FADBD8;
+  }
+  button{
+    width:60%;padding:7px; border-radius:20px; background-color:#A9DFBF;}
+  h1{
+    font-family:courier new;
+  }
+  #congrats{ font-family:courier new;}
+  section{
+    display:inline-block;
+  }
